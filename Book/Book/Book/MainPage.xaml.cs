@@ -17,7 +17,7 @@ namespace Book
 
         public string ReadText()
         {
-            return "Hello Ny Friend";
+            return "Hello My Friend";
             
         }
     }
