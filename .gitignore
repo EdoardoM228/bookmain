@@ -2,3 +2,6 @@
 Book/Book/Book.Android/obj
 Book/.vs
 Book/Book/Book.iOS/obj
+Book/Book/Book/bin
+Book/Book/Book.Android/bin
+Book/Book/Book.Android/Resources/Resource.designer.cs
