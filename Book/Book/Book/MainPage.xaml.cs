@@ -14,5 +14,11 @@ namespace Book
         {
             InitializeComponent();
         }
+
+        public string ReadText()
+        {
+            return "Hello Ny Friend";
+            
+        }
     }
 }
